@@ -1,0 +1,1 @@
+The intention of this repo is to capture all problems related to Linked List
